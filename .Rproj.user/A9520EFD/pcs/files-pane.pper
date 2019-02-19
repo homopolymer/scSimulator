@@ -1,0 +1,9 @@
+{
+    "path" : "~/Tool/scRNA-tools/scSimulator",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1550586071380.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "1A478F6E",
+    "lastKnownWriteTime" : 1550586694,
+    "last_content_update" : 1550586694655,
+    "path" : "~/Tool/scRNA-tools/scSimulator/man/scSimulator.Rd",
+    "project_path" : "man/scSimulator.Rd",
+    "properties" : {
+        "cursorPosition" : "59,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_doc"
+}
