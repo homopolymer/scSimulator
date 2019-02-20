@@ -14,7 +14,7 @@ BiocManager::install("preprocessCore", version = "3.8")
 ## install without vignettes
 # devtools::install_github("homopolymer/scSimulator")
 
-## install with vignettes
+# install with vignettes
 git clone https://github.com/homopolymer/scSimulator.git
 devtools::install(PATH_TO_SCSIMULATOR, build=TRUE, build_vignettes=TRUE, dependiences=TRUE, force=TRUE)
 ```
