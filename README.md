@@ -19,7 +19,7 @@ git clone https://github.com/homopolymer/scSimulator.git
 devtools::install(PATH_TO_SCSIMULATOR, build=TRUE, build_vignettes=TRUE, dependiences=TRUE, force=TRUE)
 ```
 
-## Example of neutrophil development
+## Example of simulating neutrophil development
 ```R
 library(scSimulator)
 vignette("neutrophil")
