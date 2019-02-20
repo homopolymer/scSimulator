@@ -21,8 +21,7 @@ devtools::install(PATH_TO_SCSIMULATOR, build=TRUE, build_vignettes=TRUE, dependi
 
 ## Example of simulating neutrophil development
 ```R
-library(scSimulator)
-vignette("neutrophil")
+vignette("neutrophil", package="scSimulator")
 ```
 
 Contributions of any size or form are welcome!
