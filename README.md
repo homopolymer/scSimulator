@@ -5,8 +5,12 @@ This is an R package for simulating scRNA-seq data for complex cell populations 
 ## Installation
 
 ```R
-# install.packages("devtools")
+# dependency
+if (!requireNamespace("BiocManager", quietly = TRUE))
+    install.packages("BiocManager")
+BiocManager::install("preprocessCore", version = "3.8")
 
+# install.packages("devtools")
 ## install without vignettes
 # devtools::install_github("homopolymer/scSimulator")
 
