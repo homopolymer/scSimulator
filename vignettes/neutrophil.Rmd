@@ -19,7 +19,7 @@ knitr::opts_chunk$set(
 R code to demonstrate the use of scSimulator for simulation of complex cell population.
 
 ## Demo code
-```{r message=FALSE, warning=FALSE, fig.width=8, fig.height=8}
+```{r message=FALSE, warning=FALSE, fig.width=6, fig.height=6}
 library(Biobase)
 library(Seurat)
 library(parallel)
